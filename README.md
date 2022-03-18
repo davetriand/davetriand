@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davetriand
-- 👀 I’m interested in data scientist, cryto, DEFI, Dapps, and cybersecurity
+- 👀 I’m interested in data scientist, cryto, DEFI, dApps, and cybersecurity
 - 🌱 I’m currently learning SQL,PYTHON, LINUX, ETC
 - 💞️ I’m looking to collaborate on github 
 - 📫 How to reach me here, just leave ur comment. thankyou.
